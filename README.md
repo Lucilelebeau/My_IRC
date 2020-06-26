@@ -1,6 +1,7 @@
 # My_IRC
 
-Création d'un server IRC
+Création d'un server IRC tel que Discord (d'où le My_Disputes), projet réalisé à 2
+
 Node.js / React.js / Socket.io / express.js
 
 # Fonctionnalités
