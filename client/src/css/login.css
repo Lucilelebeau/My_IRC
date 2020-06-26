@@ -1,0 +1,17 @@
+h1{
+    margin-top: 5rem;
+    margin-bottom: 6rem;
+}
+.buttonLog{
+    text-align: center;
+}
+#color{
+    background-color: rgb(252, 124, 124);
+}
+
+.images{
+    margin-top: 5rem;
+    width: 7rem;
+    height: 7rem;
+    border: solid rgb(182, 26, 26) 2px
+}

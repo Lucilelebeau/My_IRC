@@ -1,0 +1,29 @@
+
+.navbar_title{
+    color: white;
+    font-size: 22px;
+    margin-left: 1rem;
+}
+
+.navbar_title:hover{
+    text-decoration: none;
+    color: red;
+    font-size: 22px;
+}
+
+.navbar_liens{
+    color: white;
+    list-style: none;
+    font-size: 14px;
+}
+
+.navbar_liens:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.images_navbar{
+    width: 5rem;
+    height: 5rem;
+    border: solid rgb(182, 26, 26) 2px
+  }

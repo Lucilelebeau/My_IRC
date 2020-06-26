@@ -1,0 +1,139 @@
+.channel{
+    background-color: beige;
+    height: 850px;
+    display: flex;
+    justify-content: center;
+}
+
+.chat{
+    display: flex;
+    justify-content: center;
+}
+
+.list{
+    padding-top: 30px;
+    margin-bottom: 60px;
+    height: 850px;
+    background-color: rgb(219, 219, 219);
+}
+.form_size{
+    position: fixed;
+    bottom: 0;
+    min-width: 48%;
+}
+
+.button{
+    margin-top: 0 !important;
+}
+.chat_size{
+    max-height: 560px;
+    overflow-y: auto;
+    text-align: justify;
+    padding-right: 5%;
+}
+h3{
+    text-align: center;
+    color: rgb(177, 6, 6);
+}
+.title{
+    padding-top: 60px;
+}
+.titleChat{
+    padding-top: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+h4{
+    font-size: 20px;
+    color: rgb(54, 54, 54);
+}
+.welcom{
+    color: rgb(28, 247, 174);
+    font-style: italic;
+}
+.byebye{
+    color:rgb(28, 247, 174);
+    font-style: italic;
+}
+.send{
+    color:  rgb(58, 58, 148);
+    margin-left: 5%;
+}
+.text_mess{
+    margin-left: 18px;
+}
+.date_mess{
+    font-size: 10px;
+    color: grey;
+}
+.from{
+    font-size: 15px;
+    
+}
+
+.inputs_channel{
+    width: 100%;
+}
+
+.buttons_channel{
+    margin-top: 8px;
+    color: rgb(6, 94, 177);
+    border: solid 2px rgb(6, 94, 177);
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 10px;
+}
+.form_channel{
+    margin-top: 60px;
+}
+
+.form_size{
+    position: fixed;
+    bottom: 0;
+    min-width: 48%;
+}
+
+.list_names{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.user_list{
+    color:  rgb(58, 58, 148);
+}
+
+.list_rooms{
+    display: inline;
+    margin-left: 10px;
+}
+
+.room{
+    color: rgb(177, 6, 6);
+    display: inline;
+}
+
+.robot{
+    color: rgb(173, 58, 173);
+    margin-left: 5%;
+}
+.room_button{
+    margin-bottom: 20px;
+}
+.buttons_grey{
+    border: solid 1px rgb(58, 57, 57);
+    color:  rgb(58, 57, 57);
+    background-color: aliceblue;
+    border-radius: 4px;
+    padding: 2px;
+    margin: 0;
+    margin-left: 10px;
+}
+.buttons_delete{
+    border: solid 1px rgb(218, 45, 14);
+    color:  rgb(218, 45, 14);
+    background-color: aliceblue;
+    border-radius: 4px;
+    padding: 2px;
+    margin: 0;
+    margin-left: 10px;
+}

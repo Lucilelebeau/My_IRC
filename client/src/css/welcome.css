@@ -1,0 +1,22 @@
+
+.welcome_title{
+  text-align: center;
+}
+
+.welcome_logo{
+  margin-top: 0rem;
+  text-align: center;
+}
+
+.welcome_button{
+  text-align: center;
+}
+
+.welcome_link{
+  color: black
+}
+
+.welcome_link:hover{
+  color: red;
+  text-decoration: none;
+}
